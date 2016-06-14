@@ -1,6 +1,25 @@
 [
     {
         "shortnames": [
+            "ru",
+            "sk"
+        ],
+        "city": "Lille",
+        "group": "b",
+        "addr": [
+            "PERaLVEQKxHdGtfwXtX217KWAjDwwgFpYY",
+            "PMwL362oHGTjUGDi8xfRu8WoPQmVYFsTDM",
+            "PP1v4ruEpo4MmFp7PCSDSVPjtLh8cGY9Em"
+            ],
+        "timestamp": "2016-06-15T15:00:00+02:00",
+        "names": [
+            "Russia",
+            "Slovakia"
+        ],
+        "id": 37
+    },
+    {
+        "shortnames": [
             "it",
             "ie"
         ],
