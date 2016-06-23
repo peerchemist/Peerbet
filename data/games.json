@@ -10,7 +10,7 @@
             "PERaLVEQKxHdGtfwXtX217KWAjDwwgFpYY",
             "PMwL362oHGTjUGDi8xfRu8WoPQmVYFsTDM",
             "PP1v4ruEpo4MmFp7PCSDSVPjtLh8cGY9Em"
-            ],
+        ],
         "timestamp": "2016-06-15T15:00:00+02:00",
         "names": [
             "Russia",
@@ -682,5 +682,149 @@
             "Iceland"
         ],
         "id": 32
+    },
+    {
+        "shortnames": [
+            "ch",
+            "pl"
+        ],
+        "city": "Saint-Etienne",
+        "addr": [
+            "PHLnXW78eNwHMqsg5mjRuCoQi5rd7P8ihU",
+            "PVry6AsLRLwJ3moZ5vdB7KXeUv73reaxwW",
+            "PPAk4dJwKqCT2AF1RA9guUdMxZRj4oCvnx"
+        ],
+        "timestamp": "2016-06-25T15:00:00+02:00",
+        "names": [
+            "Switzerland",
+            "Poland"
+        ],
+        "id": 101
+    },
+    {
+        "shortnames": [
+            "gb-wls",
+            "gb-nir"
+        ],
+        "city": "Paris",
+        "addr": [
+            "PLKepbChLwC2WCCxRocvKM4B8PUJBYz1eV",
+            "PJPQywzftXjQwFb1PXq2Vgjnn6SAtQDD1N",
+            "P8seG4ZtTQFuzR8boqRVUyF4E2ChFzM5Eb"
+        ],
+        "timestamp": "2016-06-25T18:00:00+02:00",
+        "names": [
+            "Wales",
+            "N. Ireland"
+        ],
+        "id": 102
+    },
+    {
+        "shortnames": [
+            "hr",
+            "pt"
+        ],
+        "city": "Lens",
+        "addr": [
+            "PAWVeuo6Swos64BwkWbgrjnNqywz27VbS3",
+            "PWZYAP4Q7a8p596pAQTZQ2VE9N9DeK41iv",
+            "PBqUpHcJeYoCFr58LN7N8rJ98xFRVEwYGd"
+        ],
+        "timestamp": "2016-06-25T21:00:00+02:00",
+        "names": [
+            "Croatia",
+            "Portugal"
+        ],
+        "id": 103
+    },
+    {
+        "shortnames": [
+            "fr",
+            "ie"
+        ],
+        "city": "Lyon",
+        "addr": [
+            "P9xCufEUs9XXvHErXjDEdFN9o7g6NAeVVq",
+            "PJgX6dgHMkgHmPbTCtPWmEDXg6562TixV5",
+            "PUyYjQ7N4SFGLkdaix47AdM9JjyzNNzWE4"
+        ],
+        "timestamp": "2016-06-26T15:00:00+02:00",
+        "names": [
+            "France",
+            "Ireland"
+        ],
+        "id": 104
+    },
+    {
+        "shortnames": [
+            "de",
+            "sk"
+        ],
+        "city": "Lille",
+        "addr": [
+            "PRgADqodGB2ruM5U2J72gN6nNBK7on4h6C",
+            "PRBihQSJgBBpunTNerjnqLMMXfCe7UBord",
+            "PNgbkY5Mj6iQ37qRoQje6sf5VczggGpmwU"
+        ],
+        "timestamp": "2016-06-26T18:00:00+02:00",
+        "names": [
+            "Germany",
+            "Slovakia"
+        ],
+        "id": 105
+    },
+    {
+        "shortnames": [
+            "hu",
+            "be"
+        ],
+        "city": "Tolouse",
+        "addr": [
+            "PC1Z4Fq8B7scXVK1FKji2fFKvBf1BNXXix",
+            "PNwn2EocMv1Q5xk2ZUbTPHTZbQiPnVWLJb",
+            "PQBMNwxadFq3jFkiBNCaLxuGaKTknXwkqk"
+        ],
+        "timestamp": "2016-06-26T21:00:00+02:00",
+        "names": [
+            "Hungary",
+            "Belgium"
+        ],
+        "id": 106
+    },
+    {
+        "shortnames": [
+            "it",
+            "es"
+        ],
+        "city": "Saint-Denis",
+        "addr": [
+            "PFreERB3Z6EA3KmFJFjXiMwHMjBV4HV9wj",
+            "PFX9m8yXWt3DeA1dr8EtETfESWo4YEHPZy",
+            "PNfXWubX6L4ydzTvoatPyKM9uzCAFzm7bX"
+        ],
+        "timestamp": "2016-06-27T18:00:00+02:00",
+        "names": [
+            "Italy",
+            "Spain"
+        ],
+        "id": 107
+    },
+    {
+        "shortnames": [
+            "gb-eng",
+            "is"
+        ],
+        "city": "Nice",
+        "addr": [
+            "PAsZPfYJfUsbykHG2fGxVT5DCqwRBYmTTd",
+            "PKdfuPcoouCd3ZwixJvfRiBPUKhg3GytwS",
+            "PGwi1zH6R9LycDuMtaYyTC34ews2RrLsys"
+        ],
+        "timestamp": "2016-06-27T21:00:00+02:00",
+        "names": [
+            "England",
+            "Iceland"
+        ],
+        "id": 108
     }
 ]
