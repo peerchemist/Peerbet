@@ -898,5 +898,41 @@
             "Iceland"
         ],
         "id": 203
+    },
+    {
+        "shortnames": [
+            "pt",
+            "gb-wls"
+        ],
+        "city": "Lyon",
+        "addr": [
+            "PJNQzYGCk9g1Yx3Rwtfz7pWqdmkjy7r1XZ",
+            "PCWvgihhiXatTZWf6SQ26bjAy9bxv7Nzes",
+            "PJ7YT2FsWM9AT49kS2TZc8aLUkdN7T1yZW"
+        ],
+        "timestamp": "2016-07-06T21:00:00+02:00",
+        "names": [
+            "Portugal",
+            "Wales"
+        ],
+        "id": 300
+    },
+    {
+        "shortnames": [
+            "de",
+            "fr"
+        ],
+        "city": "Marseille",
+        "addr": [
+            "P9aMfupzckYJ6nhErvF1DMKRHzGvaB5MJ3",
+            "PBkugMdKrxqSedYPsvSZZm2k9TNmQAdGy9",
+            "PSXmwjXrsqiTe2DgvG4r4JLG6ihwf3h515"
+        ],
+        "timestamp": "2016-07-07T21:00:00+02:00",
+        "names": [
+            "Germany",
+            "France"
+        ],
+        "id": 301
     }
 ]
