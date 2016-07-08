@@ -934,5 +934,22 @@
             "France"
         ],
         "id": 301
+    },
+    {
+        "shortnames": [
+            "pt",
+            "fr"
+        ],
+        "timestamp": "2016-07-10T21:00:00+02:00",
+        "id": 400,
+        "addr": [
+            "PWQmi5VeXKG2VgHccvwmpUZJTbZDsQN4to",
+            "PEcN74AEM56ewuLXUrKauZxonAXfguRcXH",
+            "PTuxzMNhbLzEkX3ZMC6HRUkcACCogjzkai"
+        ],
+        "names": [
+            "Portugal",
+            "France"
+        ]
     }
 ]
